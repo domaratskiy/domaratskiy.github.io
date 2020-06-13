@@ -14,6 +14,12 @@ function mobileopenBtn() {
   let mobile_menu__dropList = document.querySelector('.menu');
   mobile_menu__dropList.classList.toggle('menu_active');
   mobile_menu__dropList.style.width = '100%';
+  if(getComputedStyle(mobile_menu__dropList).display === 'none'){
+    mobile_menu__dropList.style.display = 'block';
+  }
+  else{
+    mobile_menu__dropList.style.display = 'none';
+  }
 }
 
 

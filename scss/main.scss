@@ -223,9 +223,8 @@ p.heroPage_info__text {
 }
 
 a.heroPage_btn {
-	width: 105px;
+	display: inline-block;
 	padding: 9px 14px 9px 13px;
-	height: 28px;
 	font-size: 11px;
 	font-weight: 300;
 	margin-top: 27px;
@@ -540,8 +539,7 @@ a.heroPage_btn {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	width: 105px;
-	height: 28px;
+	padding: 8px 25px;
 	border: 1px solid #c2c2c2;
 	&:hover{
 		background-color: #666;
@@ -718,14 +716,12 @@ a.heroPage_btn {
 
 	font-size: 12px;
 	font-weight: 300;
-
 	letter-spacing: 0.3px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	text-decoration: none;
-	width: 105px;
-	height: 28px;
+	padding: 10px;
 }
 
 ////// мобильная версия 
