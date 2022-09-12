@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.116ba4da.css",
+    "main.js": "/static/js/main.feb30599.js",
+    "static/js/787.4bda4dad.chunk.js": "/static/js/787.4bda4dad.chunk.js",
+    "static/media/blogImg2.png": "/static/media/blogImg2.2fe96d8993fcc05f9433.png",
+    "static/media/Section1Img.png": "/static/media/Section1Img.85c0c3862ea828ae0aa9.png",
+    "static/media/blogImg1.png": "/static/media/blogImg1.bd773a01bfb073f61259.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/blogImg.png": "/static/media/blogImg.0e0a9a45bab2228990be.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/vitaminImg.png": "/static/media/vitaminImg.d4b38196450b028fac95.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/honeyItem.png": "/static/media/honeyItem.4269784cdf27d204d1d2.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/img2.webp": "/static/media/img2.a20e9d43b3d6ad6bbaaf.webp",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "static/media/img1.webp": "/static/media/img1.1f57dba1b2a5382bd575.webp",
+    "static/media/team2.webp": "/static/media/team2.04289448817c0fbe51bd.webp",
+    "static/media/team3.webp": "/static/media/team3.1ed1921c15bcab730b41.webp",
+    "static/media/team1.webp": "/static/media/team1.4db24ab11d9abb2873ec.webp",
+    "index.html": "/index.html",
+    "main.116ba4da.css.map": "/static/css/main.116ba4da.css.map",
+    "main.feb30599.js.map": "/static/js/main.feb30599.js.map",
+    "787.4bda4dad.chunk.js.map": "/static/js/787.4bda4dad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.116ba4da.css",
+    "static/js/main.feb30599.js"
+  ]
+}
