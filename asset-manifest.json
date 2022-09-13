@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.116ba4da.css",
-    "main.js": "/static/js/main.feb30599.js",
+    "main.css": "/static/css/main.cfd6499f.css",
+    "main.js": "/static/js/main.f34859ed.js",
     "static/js/787.4bda4dad.chunk.js": "/static/js/787.4bda4dad.chunk.js",
     "static/media/blogImg2.png": "/static/media/blogImg2.2fe96d8993fcc05f9433.png",
     "static/media/Section1Img.png": "/static/media/Section1Img.85c0c3862ea828ae0aa9.png",
+    "static/media/2.jpg": "/static/media/2.5a9b0cd2c98080422d29.jpg",
     "static/media/blogImg1.png": "/static/media/blogImg1.bd773a01bfb073f61259.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/3.jpg": "/static/media/3.c0742ef3b2a74259b4ab.jpg",
+    "static/media/4.jpg": "/static/media/4.40cd7b0a28de67e4b1f8.jpg",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
     "static/media/blogImg.png": "/static/media/blogImg.0e0a9a45bab2228990be.png",
+    "static/media/1.jpg": "/static/media/1.31a20512bbcea2ab223c.jpg",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
@@ -23,12 +27,12 @@
     "static/media/team3.webp": "/static/media/team3.1ed1921c15bcab730b41.webp",
     "static/media/team1.webp": "/static/media/team1.4db24ab11d9abb2873ec.webp",
     "index.html": "/index.html",
-    "main.116ba4da.css.map": "/static/css/main.116ba4da.css.map",
-    "main.feb30599.js.map": "/static/js/main.feb30599.js.map",
+    "main.cfd6499f.css.map": "/static/css/main.cfd6499f.css.map",
+    "main.f34859ed.js.map": "/static/js/main.f34859ed.js.map",
     "787.4bda4dad.chunk.js.map": "/static/js/787.4bda4dad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.116ba4da.css",
-    "static/js/main.feb30599.js"
+    "static/css/main.cfd6499f.css",
+    "static/js/main.f34859ed.js"
   ]
 }
