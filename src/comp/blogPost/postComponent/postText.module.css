@@ -1,0 +1,17 @@
+.container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 0 15px;
+}
+.container p {
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+.title {
+    font-size: 24px;
+    padding: 30px 0;
+}
+.supTitle {
+    font-size: 18px;
+    margin-bottom: 20px;
+}

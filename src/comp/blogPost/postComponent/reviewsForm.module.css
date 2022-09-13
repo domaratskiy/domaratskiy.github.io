@@ -1,0 +1,32 @@
+.reviewsForm {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.reviewsIn__cont {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.reviewsIn__cont input[type="text"], .textArea {
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.reviewsBTN {
+    display: block;
+    padding: 20px 50px;
+    background-color: orange;
+    border-radius: 10px;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.reviewsBTN:hover {
+    background-color: rgba(255, 166, 0, 0.548);
+}

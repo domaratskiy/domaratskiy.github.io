@@ -1,0 +1,20 @@
+
+
+.reviewsItem_cont {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    width: 50%;
+    margin: 15px auto;
+
+}
+.reviewsOut_name {
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.reviewsOut_text {
+    margin-top: 5px;
+    font-size: 14px;
+    line-height: 1.3;
+}

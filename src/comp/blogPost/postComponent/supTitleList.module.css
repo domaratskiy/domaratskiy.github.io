@@ -1,0 +1,9 @@
+
+.supTitle_list {
+    list-style: circle;
+    margin-left: 25px;
+}
+
+.supTitle_list li:not(:last-child) {
+    margin-bottom: 10px;
+}

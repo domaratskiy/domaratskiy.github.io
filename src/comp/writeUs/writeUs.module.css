@@ -1,0 +1,15 @@
+.writeUs_cont{
+    padding: 40px 20px 20px 20px;
+    text-align: center;
+}
+.writeUs_name {
+    font-size: 32px;
+    line-height: 32px; 
+    font-weight: 500;
+    margin-bottom: 15px;
+
+}
+.writeUs_text {
+    font-weight: 500; 
+    margin-bottom: 15px;
+}

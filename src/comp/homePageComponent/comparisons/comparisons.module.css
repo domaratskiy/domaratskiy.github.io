@@ -1,0 +1,34 @@
+.comparisonsCont {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-between;
+}
+.natural, .industrial {
+    display: flex;
+    width: 50%;
+    justify-content: space-between;
+    padding: 10px;
+}
+.natural li, .industrial li {list-style: none;}
+.natural li h4, .industrial li h4 {font-weight: 800;}
+.natural li h4:hover, .industrial li h4:hover {
+    text-shadow: 1px 1px 10px #000;
+}
+.natural li span, .industrial li span {font-size: 13px;}
+.natural li span:hover, .industrial li span:hover {text-shadow: 1px 1px 10px #000;}
+.natural > figcaption, .industrial > figcaption {
+    flex-grow: 1;
+}
+.natural_list, .industrial_list {
+    padding-top: 50px;
+    list-style: number;
+}
+.natural_list > li, .industrial_list > li{
+    margin-bottom: 15px;
+}
+@media screen and (max-width: 500px) {
+    .natural, .industrial {
+        width: 100%;
+    }
+}

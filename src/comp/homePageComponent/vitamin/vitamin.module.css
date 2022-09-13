@@ -1,0 +1,8 @@
+.vitaminFigure {
+    text-align: center;
+    padding: 10px;
+}
+.vitaminFigure img{
+    max-width: 100%;
+    height: auto;
+}

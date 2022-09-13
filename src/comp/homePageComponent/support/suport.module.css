@@ -1,0 +1,44 @@
+.suport_contact {
+    list-style: none;
+    padding: 15px;
+}
+.suport_contact li a{
+    color: #000;
+}
+.suport_contact li a:hover{
+    color: red;
+}
+.suport_contact li:hover{
+    color: rgb(119, 0, 255);
+}
+.suport_contact li:hover a{
+    color: red;
+}
+.suport_contact li:hover span{
+    color: red;
+}
+.suport_contact li:not(:last-child) {
+    margin-bottom: 15px;
+}
+.suport_contact li:not(:last-child) a {
+    padding-left: 20px;
+}
+.suport_contact li:last-child a {
+    margin-top: 10px;
+    display: inline-block;
+}
+.suport_contact li  a:hover{
+    opacity: 0.5;
+}
+
+#gmap_canvas {
+    
+   width: 100%;
+   min-height: 400px;
+}
+@media screen and (max-width: 500px) {
+    #gmap_canvas {
+        
+        min-height: 300px;
+    }
+}

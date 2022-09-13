@@ -1,0 +1,70 @@
+.InfoHoney_cont {
+    background-color: #dcdbdb;
+    font-size: 14px;
+    border:1px solid black;
+    margin-top: 30px;
+}
+.InfoHoney_cont:hover {
+    background-color: #eceaea;
+}
+.InfoHoney_cont__title {
+    font-size: 13px;
+    color: black;
+    padding: 10px 15px;
+    font-weight: 600;
+    cursor:pointer;
+
+}
+.InfoHoney_cont__title:hover {
+   text-shadow:   0 0 0.2em rgb(73, 73, 74); 
+}
+
+.InfoHoney_cont__text {
+    padding: 15px;
+    line-height: 25px;
+    display: none;
+}
+.InfoHoney_cont__text p {
+    margin-bottom: 0;
+}
+.plus{position: relative;}
+.plus::before{
+    content: '+';
+    line-height: 10px;
+    position: absolute;
+    left: 21px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 11px;
+    height: 10px;
+    font-size: 25px;
+}
+.minus{position: relative;}
+.minus::before{
+    content: '-';
+    line-height: 10px;
+    position: absolute;
+    left: 21px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    width: 11px;
+    height: 10px;
+    font-size: 25px;
+}
+.InfoHoney_cont__text.active {
+    display: block;
+}
+.awesomes_box {
+    margin-right: 10px;
+    display: inline-block;
+    padding:5px 7px;
+    border-radius: 50%;
+    border: 1px solid #000;
+}
+@media(max-width: 768px) {
+    .InfoHoney_cont{
+        margin: 25px 10px;
+    }
+}

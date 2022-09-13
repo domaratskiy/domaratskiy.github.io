@@ -1,0 +1,13 @@
+.benefits_cont{
+    text-align: center;
+}
+.benefits_title {
+    font-size: 24px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.benefits_text {
+    padding: 0 10%;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
